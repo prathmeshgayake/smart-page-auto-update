@@ -1,0 +1,1 @@
+# smart-page-auto-update
